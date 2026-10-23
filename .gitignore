@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+data/
+reports/
+.env*
+*.csv
+*.tsv
+*.duckdb*
+*.abf
+.pbi/
+*.pbix
+*.zip
